@@ -64,3 +64,37 @@ history -a
 ./student_info.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+cls
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+clear
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+dir
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+mkdir student_db_part-2
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+mv student_info.sh student_db_part-2/
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+mv students.sql student_db_part-2/
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd student_db_part-2/
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git log
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+clear
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -a
