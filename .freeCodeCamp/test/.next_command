@@ -117,3 +117,133 @@ git add .
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 git commit -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -lrt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git log
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remot -V
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remot -v
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote -v
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote add origin https://github.com/narasimha1824/freecodecamp_students1.git
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote -v
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin -u students2
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push -u students2
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin -u students2
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ssh-keygen
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cat ../.ssh/id_rsa/id_rsa.pub
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cat ../.ssh/id_rsa.pub
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin -u students2
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+man git push
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push -u origin students2
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote -v
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote rf origin
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote -rf origin
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote rm origin
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote -v
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote add origin git@github.com:narasimha1824/freecodecamp_students1.git
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push -u origin students2
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+dir
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cp student_db_part-2/student_info.sh student_db_part-2/students.sql .
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -lrt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+rm -rf student_db_part-2/
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -a

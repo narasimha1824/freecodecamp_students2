@@ -38,3 +38,8 @@ echo "$($PSQL "SELECT DISTINCT(course) FROM students RIGHT JOIN majors USING(maj
 
 echo -e "\nList of courses, in alphabetical order, with only one student enrolled:"
 echo "$($PSQL "SELECT course FROM students INNER JOIN majors_courses USING(major_id) INNER JOIN courses USING(course_id) GROUP BY course HAVING COUNT(student_id) = 1 ORDER BY course")"
+
+
+https://github.com/narasimha1824/freecodecamp_students1.git
+
+git@github.com:narasimha1824/freecodecamp_students1.git
